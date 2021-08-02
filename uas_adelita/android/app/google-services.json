@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281939766573",
+    "project_id": "uas-adelita",
+    "storage_bucket": "uas-adelita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281939766573:android:7bd65d4ac141e8255c37a4",
+        "android_client_info": {
+          "package_name": "com.example.uas_adelita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281939766573-ut6m9tmft7d85pvh95rtr75hiirb6qip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe6i6m27FangMEzmvWaV1OKDQN52T69Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281939766573-ut6m9tmft7d85pvh95rtr75hiirb6qip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
